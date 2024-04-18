@@ -53,7 +53,7 @@ function App() {
         <div className="min-h-36">
           <img
             className="rounded-xl w-24 h-24 translate-y-[7.3rem]"
-            src={GirlOne}
+            src={GirlTwo}
             alt="pp-1"
           />
           <div className="bg-white rounded-xl p-5 pl-16 ml-10">
@@ -64,7 +64,7 @@ function App() {
               </div>
               <img
                 className="rounded-xl w-10 h-10 ml-20"
-                src={GirlOne}
+                src={GirlTwo}
                 alt="pp-1"
               />
             </div>
@@ -103,7 +103,7 @@ function App() {
         <div className="min-h-36 flex">
           <img
             className="rounded-xl w-24 h-24 absolute translate-y-6"
-            src={GirlOne}
+            src={GirlThree}
             alt="pp-1"
           />
           <div className="bg-white rounded-xl p-5 pl-16 ml-10">
@@ -114,7 +114,7 @@ function App() {
               </div>
               <img
                 className="rounded-xl w-10 h-10 ml-20"
-                src={GirlOne}
+                src={GirlThree}
                 alt="pp-1"
               />
             </div>
@@ -153,7 +153,7 @@ function App() {
         <div className="min-h-36 flex">
           <img
             className="rounded-xl w-24 h-24 absolute translate-y-6"
-            src={GirlOne}
+            src={GirlFour}
             alt="pp-1"
           />
           <div className="bg-white rounded-xl p-5 pl-16 ml-10">
@@ -164,7 +164,7 @@ function App() {
               </div>
               <img
                 className="rounded-xl w-10 h-10 ml-20"
-                src={GirlOne}
+                src={GirlFour}
                 alt="pp-1"
               />
             </div>
